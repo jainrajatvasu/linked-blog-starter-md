@@ -1,5 +1,6 @@
 # linked-blog-starter-md
 These are the markdown files for the [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) repository
 
-a cool edit 
-Rajat jain welcome to obsidian world
+
+Rajat jain
+welcome to obsidian world
